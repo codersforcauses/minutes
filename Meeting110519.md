@@ -1,0 +1,34 @@
+# Stand Ups
+- Thai
+    - Didn't do much
+- Daniel
+    - Nothing
+- David
+    - Added two new blog posts
+    - Added email notifications on blog and on slack chat
+    - Animal Aid Abroad keeps spamming David. Too high risk for David to get involved and he has a full-time job.
+    - Will continue with blog posts
+    - Would love to teach more people in committee
+- Josh
+    - Is sorry for missing the last meeting
+- Ekin
+    - Didnt do anything. Just taking notes.
+- Drew
+    - We're getting a Mac today!
+
+# Agenda
+- SOC Meeting for Treasurers
+    - David will be going. If not, Daniel and Ekin will go.
+- Memo from Innocent
+    - Current Projects: Homelessness project, P2S, LAWRA.
+    - Do we have enough space to take on more projects?
+    -The Flora Project
+        - Must consider whether a PWA is good since Apple is a pain.
+        - Will be a summer project
+    - People are placed on the projects by preferences
+- The high school EMS event
+    - 21st of may. Informational meeting for high school students. They would like 2 of us to be at the computer science stall.
+    - Thai and Jeremiah will go
+- SAC Meeting
+    - We missed it :/
+    - Ezone: there will be an area designated for clubs. Complete feedback survey by 20th of May
